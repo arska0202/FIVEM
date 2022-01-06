@@ -1,0 +1,18 @@
+-- arska door1
+{
+    objHash = GetHashKey('v_ilev_cs_door'),
+    objCoords = vector3(482.81, -1311.95, 29.35),
+    textCoords = vector3(482.81, -1312.76, 29.20),
+    authorizedJobs = {'tuning'},
+    locked = true,
+    maxDistance = 2.0
+},
+-- arska door2
+{
+    objHash = GetHashKey('prop_com_gar_door_01'),
+    objCoords = vector3(484.5642, -1315.574, 30.20331),
+    textCoords = vector3(484.5642, -1315.574, 30.20331),
+    authorizedJobs = {'tuning'},
+    locked = true,
+    maxDistance = 12.0
+},
